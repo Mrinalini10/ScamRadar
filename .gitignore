@@ -1,0 +1,19 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/*.pyc
+backend/scamradar.db
+backend/data/processed_complaints.json
+*.egg-info/
+.env
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# General
+.DS_Store
+*.log
+.idea/
+.vscode/
